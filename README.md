@@ -2,7 +2,7 @@
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-AvinashVishu-red)](https://www.youtube.com/channel/UCmtDMaJNZxcHrQ69hr-WreQ)
 [![Linkedin Badge](https://img.shields.io/badge/-Avinash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/avinash-vishu-22b4741b0/)](https://www.linkedin.com/in/avinash-vishu-22b4741b0/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Avinash-green)](https://github.com/avinashvishu/portfolio.git)
+[![Website Badge](https://img.shields.io/badge/WebSite-Avinash-green)](https://avinashvishu.github.io/my-profile/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Avinash-yellow)](https://stackoverflow.com/users/17892846/v-avinash)
 
 I'm
