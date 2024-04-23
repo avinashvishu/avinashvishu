@@ -5,9 +5,7 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-Avinash-green)](https://avinashvishu.github.io/my-profile/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Avinash-yellow)](https://stackoverflow.com/users/17892846/v-avinash)
 
-I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+Dynamic MERN stack developer adept at crafting innovative web applications to tackle real-world challenges. Proficient in leveraging the entire MERN stack – MongoDB, Express.js, React.js, and Node.js – to deliver impactful solutions. Skilled in designing and implementing intuitive user interfaces and building robust back-end systems for scalability. Demonstrated expertise through a portfolio of intermediate projects, including online streaming, food delivery, e-commerce, and weather applications. A collaborative team player committed to continuous learning and embracing new challenges to drive personal and professional growth.
 
 
 ![Visitor Count](https://profile-counter.glitch.me/avinashvishu/count.svg)
